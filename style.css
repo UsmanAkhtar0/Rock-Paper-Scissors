@@ -54,7 +54,7 @@ img {
 #msg {
     background-color: black;
     color: white;
-    font-size: 2rem;
+    font-size: 4vmin;
     display: inline;
     padding: 1rem;
     border-radius: 1rem;

@@ -34,7 +34,7 @@ img {
     align-items: center;
     gap: 2vmin;
     margin-top: 5rem;
-    width: fit-content;
+    width: min-content;
 }
 .score-board {
     display: flex;

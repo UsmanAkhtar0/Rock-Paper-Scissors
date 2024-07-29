@@ -10,8 +10,8 @@ h1 {
     line-height: 5rem;
 }
 .choice {
-    height: 165px;
-    width: 165px;
+    height: 35vmin;
+    width: 35vmin;
     border-radius: 50%;
     display: flex;
     justify-content: center;
@@ -23,8 +23,8 @@ h1 {
 }
 
 img {
-    height: 150px;
-    width: 150px;
+    height: 30vmin;
+    width: 30vmin;
     object-fit: cover;
     border-radius: 50%;
 }
@@ -32,7 +32,7 @@ img {
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 3rem;
+    gap: 2vmin;
     margin-top: 5rem;
 }
 .score-board {

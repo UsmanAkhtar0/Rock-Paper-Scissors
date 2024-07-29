@@ -59,3 +59,19 @@ img {
     padding: 1rem;
     border-radius: 1rem;
 }
+.footer {
+    background-color: rgb(137, 131, 131);
+    margin-top: 2rem;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    left: 0;
+}
+.hr-line {
+   
+
+}
+.copyright {
+    font-size: 3vmin;
+    padding: 0.6rem;
+}

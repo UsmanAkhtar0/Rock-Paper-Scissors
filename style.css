@@ -33,14 +33,14 @@ img {
     justify-content: center;
     align-items: center;
     gap: 2vmin;
-    margin-top: 5rem;
+    margin-top: 3rem;
 }
 .score-board {
     display: flex;
     justify-content: center;
     align-items: center;
     font-size: 2rem;
-    margin-top: 3rem;
+    margin-top: 2.6rem;
     gap: 5rem;
 }
 

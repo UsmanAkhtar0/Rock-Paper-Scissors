@@ -10,8 +10,8 @@ h1 {
     line-height: 5rem;
 }
 .choice {
-    height: 35vmin;
-    width: 35vmin;
+    height: 30vmin;
+    width: 30vmin;
     border-radius: 50%;
     display: flex;
     justify-content: center;
@@ -23,8 +23,8 @@ h1 {
 }
 
 img {
-    height: 30vmin;
-    width: 30vmin;
+    height: 25vmin;
+    width: 25vmin;
     object-fit: cover;
     border-radius: 50%;
 }
